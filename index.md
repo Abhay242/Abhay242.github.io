@@ -9,8 +9,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Natural Language Processsing :** Speech Systhesis, Speech Recognition, Voice Conversion and Styling
 
 ## News
 
@@ -18,13 +17,45 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
 ## Publications
 
-- **Title**
+- **A study on native American English speech recognition by Indian listeners with varying word familiarity level**
   <br>
-  **Author1**, A2, A3
+  **Abhayjeet Singh**, Achuth Rao MV, Achuth Rao MV, Chiranjeevi Yarra, Prasanta Kumar Ghosh
   <br>
-  Conference?jouranl. **NAME**.
+ **COCOSDA 2021**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2112.04151.pdf)]
+  
+  - **Web Interface for estimating articulatory movements in speech production from acoustics and text**
+  <br>
+  Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh
+  <br>
+ **InterSpeech 2021**.
+  <br>
+  [[PDF](https://www.isca-speech.org/archive/interspeech_2021/udupa21b_interspeech.html)] [[Code]()]
+  
+  - **Estimating articulatory movements in speech production with transformer networks**
+  <br>
+  Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh
+  <br>
+ **InterSpeech 2021**.
+  <br>
+  [[PDF](https://www.isca-speech.org/archive/pdfs/interspeech_2021/udupa21_interspeech.pdf)] [[Code]()]
+  
+  - **Attention and Encoder-Decoder based models for transforming articulatory movements at different speaking rates**
+  <br>
+  **Abhayjeet Singh**, Aravind Illa and Prasanta Kumar Ghosh
+  <br>
+ **InterSpeech 2020**.
+  <br>
+  [[PDF](https://arxiv.org/abs/2006.03107)] [[Code]()]
+  
+  - **A comparative study of estimating articulatory movements from phoneme sequences and acoustic features**
+  <br>
+  **Abhayjeet Singh**, Aravind Illa and Prasanta Kumar Ghosh
+  <br>
+ **ICASSP 2020**.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/document/9053852)] [[Code]()]
 
 ## Services
 
