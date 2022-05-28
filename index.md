@@ -56,8 +56,3 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   **ICASSP 2020**.
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9053852)] [[Code]()]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
