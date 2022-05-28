@@ -25,35 +25,35 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   <br>
   [[PDF](https://arxiv.org/pdf/2112.04151.pdf)]
   
-  - **Web Interface for estimating articulatory movements in speech production from acoustics and text**
+- **Web Interface for estimating articulatory movements in speech production from acoustics and text**
   <br>
   Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh
   <br>
- **InterSpeech 2021**.
+  **InterSpeech 2021**.
   <br>
   [[PDF](https://www.isca-speech.org/archive/interspeech_2021/udupa21b_interspeech.html)] [[Code]()]
-  
-  - **Estimating articulatory movements in speech production with transformer networks**
+
+- **Estimating articulatory movements in speech production with transformer networks**
   <br>
   Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh
   <br>
- **InterSpeech 2021**.
+  **InterSpeech 2021**.
   <br>
   [[PDF](https://www.isca-speech.org/archive/pdfs/interspeech_2021/udupa21_interspeech.pdf)] [[Code]()]
-  
-  - **Attention and Encoder-Decoder based models for transforming articulatory movements at different speaking rates**
+
+- **Attention and Encoder-Decoder based models for transforming articulatory movements at different speaking rates**
   <br>
   **Abhayjeet Singh**, Aravind Illa and Prasanta Kumar Ghosh
   <br>
- **InterSpeech 2020**.
+  **InterSpeech 2020**.
   <br>
   [[PDF](https://arxiv.org/abs/2006.03107)] [[Code]()]
-  
-  - **A comparative study of estimating articulatory movements from phoneme sequences and acoustic features**
+
+- **A comparative study of estimating articulatory movements from phoneme sequences and acoustic features**
   <br>
   **Abhayjeet Singh**, Aravind Illa and Prasanta Kumar Ghosh
   <br>
- **ICASSP 2020**.
+  **ICASSP 2020**.
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9053852)] [[Code]()]
 
