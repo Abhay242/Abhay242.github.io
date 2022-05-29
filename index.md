@@ -25,7 +25,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   
 - **Web Interface for estimating articulatory movements in speech production from acoustics and text**
   <br>
-  *Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh*
+  Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh
   <br>
   **InterSpeech 2021**
   <br>
