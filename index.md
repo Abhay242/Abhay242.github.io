@@ -11,10 +11,6 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
 - **Natural Language Processsing :** Speech Systhesis, Speech Recognition, Voice Conversion and Styling
 
-## News
-
-- **[Date]** News updates.
-
 ## Publications
 
 - **A study on native American English speech recognition by Indian listeners with varying word familiarity level**
