@@ -73,7 +73,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
     Conversion of non-native accent to native accent for better recognition of non-native speech.<br>
     [[Publication](https://arxiv.org/pdf/2112.04151.pdf)]
   
- ## Previous Projects
+## Previous Projects
   
   - **Estimating articulatory movements from phonemes spoken during speech production**<br>
     _Advisor: Prasanta Kumar Ghosh, Aravind Illa (IISc Bengaluru)<br>_
