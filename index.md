@@ -15,7 +15,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
 ## Publications
 
-- ####A study on native American English speech recognition by Indian listeners with varying word familiarity level
+#### - A study on native American English speech recognition by Indian listeners with varying word familiarity level
   <br>
   _**Abhayjeet Singh**, Achuth Rao MV, Achuth Rao MV, Chiranjeevi Yarra, Prasanta Kumar Ghosh_
   <br>
