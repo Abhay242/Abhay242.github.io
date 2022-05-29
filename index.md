@@ -17,9 +17,9 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
  - **A study on native American English speech recognition by Indian listeners with varying word familiarity level**
   <br>
-  > **Abhayjeet Singh**, Achuth Rao MV, Achuth Rao MV, Chiranjeevi Yarra, Prasanta Kumar Ghosh
+  **Abhayjeet Singh**, Achuth Rao MV, Achuth Rao MV, Chiranjeevi Yarra, Prasanta Kumar Ghosh
   <br>
- **COCOSDA 2021**.
+  **COCOSDA 2021**
   <br>
   [[PDF](https://arxiv.org/pdf/2112.04151.pdf)]
   
@@ -27,7 +27,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   <br>
   *Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh*
   <br>
-  **InterSpeech 2021**.
+  **InterSpeech 2021**
   <br>
   [[PDF](https://www.isca-speech.org/archive/interspeech_2021/udupa21b_interspeech.html)] [[Code](https://github.com/bloodraven66/AAI_PTA_VIZ_Webpage)]
 
