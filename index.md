@@ -17,7 +17,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
 - #### A study on native American English speech recognition by Indian listeners with varying word familiarity level
   <br>
-  ***Abhayjeet Singh**, Achuth Rao MV, Achuth Rao MV, Chiranjeevi Yarra, Prasanta Kumar Ghosh*
+  _**Abhayjeet Singh**, Achuth Rao MV, Achuth Rao MV, Chiranjeevi Yarra, Prasanta Kumar Ghosh_
   <br>
  **COCOSDA 2021**.
   <br>
