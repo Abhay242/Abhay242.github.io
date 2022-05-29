@@ -29,7 +29,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   <br>
   **InterSpeech 2021**.
   <br>
-  [[PDF](https://www.isca-speech.org/archive/interspeech_2021/udupa21b_interspeech.html)] [[Code]()]
+  [[PDF](https://www.isca-speech.org/archive/interspeech_2021/udupa21b_interspeech.html)] [[Code](https://github.com/bloodraven66/AAI_PTA_VIZ_Webpage)]
 
 - **Estimating articulatory movements in speech production with transformer networks**
   <br>
@@ -37,7 +37,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   <br>
   **InterSpeech 2021**.
   <br>
-  [[PDF](https://www.isca-speech.org/archive/pdfs/interspeech_2021/udupa21_interspeech.pdf)] [[Code]()]
+  [[PDF](https://www.isca-speech.org/archive/pdfs/interspeech_2021/udupa21_interspeech.pdf)] [[Code](https://github.com/bloodraven66/aai_pta_transformers)]
 
 - **Attention and Encoder-Decoder based models for transforming articulatory movements at different speaking rates**
   <br>
@@ -45,7 +45,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   <br>
   **InterSpeech 2020**.
   <br>
-  [[PDF](https://arxiv.org/abs/2006.03107)] [[Code]()]
+  [[PDF](https://arxiv.org/abs/2006.03107)] [[Code](https://github.com/Abhay242/AstNet)]
 
 - **A comparative study of estimating articulatory movements from phoneme sequences and acoustic features**
   <br>
@@ -53,7 +53,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   <br>
   **ICASSP 2020**.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/document/9053852)] [[Code]()]
+  [[PDF](https://ieeexplore.ieee.org/document/9053852)] [[Code](https://github.com/Abhay242/PhonemeToArticulation)]
   
   
   ## Current Projects
@@ -71,22 +71,26 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   - **[Accent Conversion](https://spire.ee.iisc.ac.in/spire/non_nativeSS.php)**<br>
     Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)
     <br><br>
-    Conversion of non-native accent to native accent for better recognition of non-native speech.
+    Conversion of non-native accent to native accent for better recognition of non-native speech.<br>
+    [Publication](https://arxiv.org/pdf/2112.04151.pdf)
   
   ## Previous Projects
   
   - **Estimating articulatory movements from phonemes spoken during speech production**<br>
     Advisor: Prasanta Kumar Ghosh, Aravind Illa (IISc Bengaluru)<br><br>
-    Predicting articulatory movements from phonemes using Encoder-Decoder models with Attention mechanism for modelling durations between phonemes and respective articulatory movements.
+    Predicting articulatory movements from phonemes using Encoder-Decoder models with Attention mechanism for modelling durations between phonemes and respective articulatory movements.<br>
+    [Publication 1](https://ieeexplore.ieee.org/document/9053852) [Publication 2](https://www.isca-speech.org/archive/pdfs/interspeech_2021/udupa21_interspeech.pdf) [Publication 3](https://www.isca-speech.org/archive/interspeech_2021/udupa21b_interspeech.html)
+    
     
   - **ASTNET - Prediction of Articulatory Motion in Speech Production at different rates**<br>
     Advisor: Prasanta Kumar Ghosh, Aravind Illa (IISc Bengaluru)<br><br>
-    Prediction of Articulatory Motion at different rates using Encoder Decoder Model and Dynamic Time Warping Algorithm for Alignment. Predicting articulators at varied speaking rates can be used to enhance performance of ASR systems in real-time.
+    Prediction of Articulatory Motion at different rates using Encoder Decoder Model and Dynamic Time Warping Algorithm for Alignment. Predicting articulators at varied speaking rates can be used to enhance performance of ASR systems in real-time.<br>
+    [Publication](https://arxiv.org/abs/2006.03107)
     
   - **Sign Language Recognition using CNN**<br>
     Advisor: Prof. RN Mir & Ab Rouf Khan (NIT Srinagar, India)<br><br>
-    Classifying various hand gestures as English language alphabets in real time using Convolutional Neural Networks.
+    Classifying various hand gestures as English language alphabets in real time using Convolutional Neural Networks. [Code](https://github.com/Abhay242/Sign-Language-Recognition-using-CNN)
     
   - **Language Identification System**<br>
     Advisor: Advisor: Prof. Arun Balaji Budru (IIIT Delhi)
-    Detection of various Indian languages using a convolutional recurrent neural network (CRNN).The CRNN model was trained with input as grey scale image of the audio’s spectrogram.
+    Detection of various Indian languages using a convolutional recurrent neural network (CRNN).The CRNN model was trained with input as grey scale image of the audio’s spectrogram. [Code](https://github.com/Abhay242/language-identification-)
