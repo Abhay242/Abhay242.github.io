@@ -55,8 +55,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9053852)] [[Code](https://github.com/Abhay242/PhonemeToArticulation)]
   
-  
-  ## Current Projects
+## Current Projects
   - **REcognizing SPeech in INdian languages ([RESPIN](https://respin.iisc.ac.in/))**
     <br>
     _Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)_
@@ -74,7 +73,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
     Conversion of non-native accent to native accent for better recognition of non-native speech.<br>
     [[Publication](https://arxiv.org/pdf/2112.04151.pdf)]
   
-  ## Previous Projects
+ ## Previous Projects
   
   - **Estimating articulatory movements from phonemes spoken during speech production**<br>
     _Advisor: Prasanta Kumar Ghosh, Aravind Illa (IISc Bengaluru)<br>_
