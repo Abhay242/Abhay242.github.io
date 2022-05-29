@@ -59,10 +59,11 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   
   
   ## Current Projects
-  
-  - ![RESPIN ICON](assets/img/respin.png) **REcognizing SPeech in INdian languages (RESPIN)**
+    ![RESPIN ICON](assets/img/respin.png)
     <br>
-    Advisor: Prof.Prasanta Kumar Ghosh (IISc Bangalore)
+    **REcognizing SPeech in INdian languages (RESPIN)**
+    <br>
+    Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)
     <br>
     Speech recognition in agriculture and finance for the poor is an initiative predominantly to create resources and make them available as a digital public good in the open source domain to spur research and innovation in speech recognition in nine different Indian languages in the area of agriculture and finance.
     
