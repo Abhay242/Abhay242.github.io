@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Associate at SPIRE Lab at IISC Bengaluru, India working under the supervision of Dr. Prasanta Kumar Ghosh. Graduated from NIT Srinagar in Computer Science & Engineering. At SPIRE lab I am working on problems related to Audio-Visual Speech Synthesis, Accent Conversion and Developing TTS & ASR systems for multiple Indian languages. During my under-graduate studies I have worked on projects mainly related to Computer Vision and NLP.<br>
+I am a Research Associate at SPIRE Lab, IISC Bengaluru working under the supervision of Dr Prasanta Kumar Ghosh. Graduated from NIT Srinagar in Computer Science & Engineering. At SPIRE lab I am working on problems related to Audio-Visual Speech Synthesis, Accent Conversion and Developing TTS & ASR systems for multiple Indian languages. During my under-graduate studies I have worked on projects related to Computer Vision and NLP.<br>
 Inquistive towards the field of Machine Learning and its unnumerable real-world applications.
 
 ### [My Resume](https://drive.google.com/file/d/1xe6RG0ePoQZw0CSeFP3hDuCvGKEzob7J/view?usp=sharing)
@@ -17,7 +17,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
 - #### A study on native American English speech recognition by Indian listeners with varying word familiarity level
   <br>
-  * **Abhayjeet Singh**, Achuth Rao MV, Achuth Rao MV, Chiranjeevi Yarra, Prasanta Kumar Ghosh *
+  * Abhayjeet Singh, Achuth Rao MV, Achuth Rao MV, Chiranjeevi Yarra, Prasanta Kumar Ghosh *
   <br>
  **COCOSDA 2021**.
   <br>
