@@ -78,7 +78,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   - **Estimating articulatory movements from phonemes spoken during speech production**<br>
     _Advisor: Prasanta Kumar Ghosh, Aravind Illa (IISc Bengaluru)<br>_
     Predicting articulatory movements from phonemes using Encoder-Decoder models with Attention mechanism for modelling durations between phonemes and respective articulatory movements.<br>
-    [[Publication 1](https://ieeexplore.ieee.org/document/9053852)]<br>[[Publication 2](https://www.isca-speech.org/archive/pdfs/interspeech_2021/udupa21_interspeech.pdf)]<br>[[Publication 3](https://www.isca-speech.org/archive/interspeech_2021/udupa21b_interspeech.html)]
+    [[Publication 1](https://ieeexplore.ieee.org/document/9053852)]  [[Publication 2](https://www.isca-speech.org/archive/pdfs/interspeech_2021/udupa21_interspeech.pdf)]  [[Publication 3](https://www.isca-speech.org/archive/interspeech_2021/udupa21b_interspeech.html)]
     
     
   - **ASTNET - Prediction of Articulatory Motion in Speech Production at different rates**<br>
