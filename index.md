@@ -15,9 +15,9 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
 ## Publications
 
- - **A study on native American English speech recognition by Indian listeners with varying word familiarity level**
+- **A study on native American English speech recognition by Indian listeners with varying word familiarity level**
   <br>
-  **Abhayjeet Singh**, Achuth Rao MV, Achuth Rao MV, Chiranjeevi Yarra, Prasanta Kumar Ghosh
+  _**Abhayjeet Singh**, Achuth Rao MV, Rakesh Vaideeswaran, Chiranjeevi Yarra, Prasanta Kumar Ghosh_
   <br>
   **COCOSDA 2021**
   <br>
@@ -25,7 +25,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   
 - **Web Interface for estimating articulatory movements in speech production from acoustics and text**
   <br>
-  Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh
+  _Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh_
   <br>
   **InterSpeech 2021**
   <br>
@@ -33,7 +33,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
 - **Estimating articulatory movements in speech production with transformer networks**
   <br>
-  Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh
+  _Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh_
   <br>
   **InterSpeech 2021**.
   <br>
@@ -41,7 +41,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
 - **Attention and Encoder-Decoder based models for transforming articulatory movements at different speaking rates**
   <br>
-  **Abhayjeet Singh**, Aravind Illa and Prasanta Kumar Ghosh
+  _**Abhayjeet Singh**, Aravind Illa and Prasanta Kumar Ghosh_
   <br>
   **InterSpeech 2020**.
   <br>
@@ -49,7 +49,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
 - **A comparative study of estimating articulatory movements from phoneme sequences and acoustic features**
   <br>
-  **Abhayjeet Singh**, Aravind Illa and Prasanta Kumar Ghosh
+  _**Abhayjeet Singh**, Aravind Illa and Prasanta Kumar Ghosh_
   <br>
   **ICASSP 2020**.
   <br>
@@ -59,38 +59,38 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   ## Current Projects
   - **REcognizing SPeech in INdian languages ([RESPIN](https://respin.iisc.ac.in/))**
     <br>
-    Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)
-    <br><br>
+    _Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)_
+    <br>
     Speech recognition in agriculture and finance for the poor is an initiative predominantly to create resources and make them available as a digital public good in the open source domain to spur research and innovation in speech recognition in nine different Indian languages in the area of agriculture and finance.
     
   - **SYnthesizing SPeech in INdian languages ([SYSPIN](https://syspin.iisc.ac.in/))**<br>
-    Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)
-    <br><br>
+    _Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)_
+    <br>
     Develop and open source a large corpus and models for text-to-speech (TTS) systems in multiple Indian languages.
     
   - **[Accent Conversion](https://spire.ee.iisc.ac.in/spire/non_nativeSS.php)**<br>
-    Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)
-    <br><br>
+    _Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)_
+    <br>
     Conversion of non-native accent to native accent for better recognition of non-native speech.<br>
-    [Publication](https://arxiv.org/pdf/2112.04151.pdf)
+    [[Publication](https://arxiv.org/pdf/2112.04151.pdf)]
   
   ## Previous Projects
   
   - **Estimating articulatory movements from phonemes spoken during speech production**<br>
-    Advisor: Prasanta Kumar Ghosh, Aravind Illa (IISc Bengaluru)<br><br>
+    _Advisor: Prasanta Kumar Ghosh, Aravind Illa (IISc Bengaluru)<br>_
     Predicting articulatory movements from phonemes using Encoder-Decoder models with Attention mechanism for modelling durations between phonemes and respective articulatory movements.<br>
-    [Publication 1](https://ieeexplore.ieee.org/document/9053852) [Publication 2](https://www.isca-speech.org/archive/pdfs/interspeech_2021/udupa21_interspeech.pdf) [Publication 3](https://www.isca-speech.org/archive/interspeech_2021/udupa21b_interspeech.html)
+    [[Publication 1](https://ieeexplore.ieee.org/document/9053852)]<br>[[Publication 2](https://www.isca-speech.org/archive/pdfs/interspeech_2021/udupa21_interspeech.pdf)]<br>[[Publication 3](https://www.isca-speech.org/archive/interspeech_2021/udupa21b_interspeech.html)]
     
     
   - **ASTNET - Prediction of Articulatory Motion in Speech Production at different rates**<br>
-    Advisor: Prasanta Kumar Ghosh, Aravind Illa (IISc Bengaluru)<br><br>
+    _Advisor: Prasanta Kumar Ghosh, Aravind Illa (IISc Bengaluru)<br>_
     Prediction of Articulatory Motion at different rates using Encoder Decoder Model and Dynamic Time Warping Algorithm for Alignment. Predicting articulators at varied speaking rates can be used to enhance performance of ASR systems in real-time.<br>
-    [Publication](https://arxiv.org/abs/2006.03107)
+    [[Publication](https://arxiv.org/abs/2006.03107)]
     
   - **Sign Language Recognition using CNN**<br>
-    Advisor: Prof. RN Mir & Ab Rouf Khan (NIT Srinagar, India)<br><br>
-    Classifying various hand gestures as English language alphabets in real time using Convolutional Neural Networks. [Code](https://github.com/Abhay242/Sign-Language-Recognition-using-CNN)
+    _Advisor: Prof. RN Mir & Ab Rouf Khan (NIT Srinagar, India)<br>_
+    Classifying various hand gestures as English language alphabets in real time using Convolutional Neural Networks. [[Code](https://github.com/Abhay242/Sign-Language-Recognition-using-CNN)]
     
   - **Language Identification System**<br>
-    Advisor: Advisor: Prof. Arun Balaji Budru (IIIT Delhi)
-    Detection of various Indian languages using a convolutional recurrent neural network (CRNN).The CRNN model was trained with input as grey scale image of the audio’s spectrogram. [Code](https://github.com/Abhay242/language-identification-)
+    _Advisor: Advisor: Prof. Arun Balaji Budru (IIIT Delhi)<br>_
+    Detection of various Indian languages using a convolutional recurrent neural network (CRNN).The CRNN model was trained with input as grey scale image of the audio’s spectrogram. [[Code](https://github.com/Abhay242/language-identification-)]
