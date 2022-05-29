@@ -43,7 +43,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   <br>
   _**Abhayjeet Singh**, Aravind Illa and Prasanta Kumar Ghosh_
   <br>
-  **InterSpeech 2020**.
+  **InterSpeech 2020**
   <br>
   [[PDF](https://arxiv.org/abs/2006.03107)] [[Code](https://github.com/Abhay242/AstNet)]
 
@@ -51,7 +51,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   <br>
   _**Abhayjeet Singh**, Aravind Illa and Prasanta Kumar Ghosh_
   <br>
-  **ICASSP 2020**.
+  **ICASSP 2020**
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9053852)] [[Code](https://github.com/Abhay242/PhonemeToArticulation)]
   
