@@ -57,6 +57,23 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9053852)] [[Code]()]
   
+  <style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
+| Column One    | Column Two    |                                                                                                                                                   
+| ---           | ---           |                                                                                                                                                   
+| data cell one | data cell two |
+  
   ## Current Projects
   
   - ![RESPIN ICON](assets/img/respin.png) **REcognizing SPeech in INdian languages (RESPIN)**
