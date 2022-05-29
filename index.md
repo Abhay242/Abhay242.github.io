@@ -56,3 +56,16 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   **ICASSP 2020**.
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9053852)] [[Code]()]
+  
+  ## Current Projects
+  
+  - **REcognizing SPeech in INdian languages (RESPIN)**
+  - **SYnthesizing SPeech in INdian languages (SYSPIN)**
+  - **Accent Conversion**
+  
+  ## Previous Projects
+  
+  - **Estimating articulatory movements from phonemes spkoken during speech production**
+  - **ASTNET - Prediction of Articulatory Motion in Speech Production at different rates**
+  - **Sign Language Recognition using CNN**
+  - **Language Identification System**
