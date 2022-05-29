@@ -59,7 +59,7 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   
   ## Current Projects
   
-  - ![RESPIN ICON]() **REcognizing SPeech in INdian languages (RESPIN)**
+  - ![RESPIN ICON](assets/img/respin.png) **REcognizing SPeech in INdian languages (RESPIN)**
   - **SYnthesizing SPeech in INdian languages (SYSPIN)**
   - **Accent Conversion**
   
