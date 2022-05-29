@@ -59,29 +59,36 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   
   
   ## Current Projects
-  - ![RESPIN ICON](assets/img/respin.png)
-    <br>
-    **REcognizing SPeech in INdian languages ([RESPIN](https://respin.iisc.ac.in/))**
+  - **REcognizing SPeech in INdian languages ([RESPIN](https://respin.iisc.ac.in/))**
     <br>
     Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)
     <br><br>
     Speech recognition in agriculture and finance for the poor is an initiative predominantly to create resources and make them available as a digital public good in the open source domain to spur research and innovation in speech recognition in nine different Indian languages in the area of agriculture and finance.
     
-  - ![SYSPIN ICON](assets/img/syspin.JPG =20x20)<br>
-    **SYnthesizing SPeech in INdian languages ([SYSPIN](https://syspin.iisc.ac.in/))**<br>
+  - **SYnthesizing SPeech in INdian languages ([SYSPIN](https://syspin.iisc.ac.in/))**<br>
     Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)
     <br><br>
     Develop and open source a large corpus and models for text-to-speech (TTS) systems in multiple Indian languages.
     
-  - ![ACCENT ICON](assets/img/accent.png)<br>
-    **[Accent Conversion](https://spire.ee.iisc.ac.in/spire/non_nativeSS.php)**<br>
+  - **[Accent Conversion](https://spire.ee.iisc.ac.in/spire/non_nativeSS.php)**<br>
     Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)
     <br><br>
     Conversion of non-native accent to native accent for better recognition of non-native speech.
   
   ## Previous Projects
   
-  - **Estimating articulatory movements from phonemes spoken during speech production**
-  - **ASTNET - Prediction of Articulatory Motion in Speech Production at different rates**
-  - **Sign Language Recognition using CNN**
-  - **Language Identification System**
+  - **Estimating articulatory movements from phonemes spoken during speech production**<br>
+    Advisor: Prasanta Kumar Ghosh, Aravind Illa (IISc Bengaluru)<br><br>
+    Predicting articulatory movements from phonemes using Encoder-Decoder models with Attention mechanism for modelling durations between phonemes and respective articulatory movements.
+    
+  - **ASTNET - Prediction of Articulatory Motion in Speech Production at different rates**<br>
+    Advisor: Prasanta Kumar Ghosh, Aravind Illa (IISc Bengaluru)<br><br>
+    Prediction of Articulatory Motion at different rates using Encoder Decoder Model and Dynamic Time Warping Algorithm for Alignment. Predicting articulators at varied speaking rates can be used to enhance performance of ASR systems in real-time.
+    
+  - **Sign Language Recognition using CNN**<br>
+    Advisor: Prof. RN Mir & Ab Rouf Khan (NIT Srinagar, India)<br><br>
+    Classifying various hand gestures as English language alphabets in real time using Convolutional Neural Networks.
+    
+  - **Language Identification System**<br>
+    Advisor: Advisor: Prof. Arun Balaji Budru (IIIT Delhi)
+    Detection of various Indian languages using a convolutional recurrent neural network (CRNN).The CRNN model was trained with input as grey scale image of the audio’s spectrogram.
