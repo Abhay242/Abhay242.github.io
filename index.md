@@ -15,6 +15,14 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
 
 ## Publications
 
+- **Gram vaani asr challenge on spontaneous telephone speech recordings in regional variations of hindi**
+  <br>
+  _Anish Bhanushali, Grant Bridgman, G Deekshitha, Prasanta Ghosh, Pratik Kumar, Saurabh Kumar, Adithya-Raj Kolladath, Nithya Ravi, Aaditeshwar Seth, Ashish Seth, **Abhayjeet Singh**, NS Vrunda, S Umesh, Sathvik Udupa, VS Lodagala, V Durga Prasad_
+  <br>
+  **Interspeech 2022**
+  <br>
+  [[PDF](https://www.isca-speech.org/archive/pdfs/interspeech_2022/bhanushali22_interspeech.pdf)]
+
 - **A study on native American English speech recognition by Indian listeners with varying word familiarity level**
   <br>
   _**Abhayjeet Singh**, Achuth Rao MV, Rakesh Vaideeswaran, Chiranjeevi Yarra, Prasanta Kumar Ghosh_
