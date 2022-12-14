@@ -14,6 +14,12 @@ I am a Research Associate at SPIRE Lab, IISc Bengaluru working under the supervi
 
 - **Natural Language Processsing :** Speech Systhesis, Speech Recognition, Voice Conversion and Styling
 
+## Challanges/Workshops
+- **[LIMMITS'23](https://sites.google.com/view/syspinttschallenge2023/home)**<br>
+    Multi-speaker, Multi-lingual Indic TTS challenge, as part of signal processing grand challenge in ICASSP 2023. (LIVE !!)
+- **[Gram Vaani ASR Challenge](https://sites.google.com/view/gramvaaniasrchallenge/home?authuser=0)** <br>
+    Gram Vaani ASR Challenge - part of low resource ASR development special session in INTERSPEECH 2022. (Results Declared) 
+    
 ## Publications
 
 - **Gram vaani asr challenge on spontaneous telephone speech recordings in regional variations of hindi**
