@@ -4,10 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Research Associate at SPIRE Lab, IISC Bengaluru working under the supervision of Dr Prasanta Kumar Ghosh. Graduated from NIT Srinagar in Computer Science & Engineering. At SPIRE lab I am working on problems related to Audio-Visual Speech Synthesis, Accent Conversion and Developing TTS & ASR systems for multiple Indian languages. During my under-graduate studies I have worked on projects related to Computer Vision and NLP.<br>
 Inquistive towards the field of Machine Learning and its unnumerable real-world applications.
+I am a Research Associate at SPIRE Lab, IISc Bengaluru working under the supervision of Dr Prasanta Kumar Ghosh. Graduated from NIT Srinagar in Computer Science & Engineering. At SPIRE lab I am working on problems related to Audio-Visual Speech Synthesis, Accent Conversion and Developing TTS & ASR systems for multiple Indian languages. During my under-graduate studies I have worked on projects related to Computer Vision and NLP.<br>
 
-### [My Resume](https://drive.google.com/file/d/1xe6RG0ePoQZw0CSeFP3hDuCvGKEzob7J/view?usp=sharing)
+
+### [My Resume](https://drive.google.com/file/d/1POoLwvpoQ8u0V5L__tN0Z2ggp-aPEMLC/view?usp=share_link)
 
 ## Research Interests
 
@@ -64,13 +65,13 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
   [[PDF](https://ieeexplore.ieee.org/document/9053852)] [[Code](https://github.com/Abhay242/PhonemeToArticulation)]
   
 ## Current Projects
-  - **REcognizing SPeech in INdian languages ([RESPIN](https://respin.iisc.ac.in/))**
+  - **REcognizing SPeech in INdian languages ([RESPIN](https://respin.iisc.ac.in/))(funded by: Gates Foundation)**
     <br>
     _Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)_
     <br>
     Speech recognition in agriculture and finance for the poor is an initiative predominantly to create resources and make them available as a digital public good in the open source domain to spur research and innovation in speech recognition in nine different Indian languages in the area of agriculture and finance.
     
-  - **SYnthesizing SPeech in INdian languages ([SYSPIN](https://syspin.iisc.ac.in/))**<br>
+  - **SYnthesizing SPeech in INdian languages ([SYSPIN](https://syspin.iisc.ac.in/))(funded by: GIZ, Germany)**<br>
     _Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)_
     <br>
     Develop and open source a large corpus and models for text-to-speech (TTS) systems in multiple Indian languages.
@@ -80,6 +81,11 @@ Inquistive towards the field of Machine Learning and its unnumerable real-world 
     <br>
     Conversion of non-native accent to native accent for better recognition of non-native speech.<br>
     [[Publication](https://arxiv.org/pdf/2112.04151.pdf)]
+    
+  - **Vaani (funded by: Google) **<br>
+    _Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)_
+    <br>
+    Develop and open source a large corpus and models for Automatic Speech Recognition (ASR) systems in multiple Indian languages.
   
 ## Previous Projects
   
