@@ -88,7 +88,7 @@ I am a Research Associate at SPIRE Lab, IISc Bengaluru working under the supervi
     Conversion of non-native accent to native accent for better recognition of non-native speech.<br>
     [[Publication](https://arxiv.org/pdf/2112.04151.pdf)]
     
-  - **Vaani (funded by: Google) **<br>
+  - **Vaani (funded by: Google)** <br>
     _Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)_
     <br>
     Develop and open source a large corpus and models for Automatic Speech Recognition (ASR) systems in multiple Indian languages.
