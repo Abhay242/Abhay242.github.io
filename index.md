@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Inquistive towards the field of Machine Learning and its unnumerable real-world applications.
-I am a Research Associate at SPIRE Lab, IISc Bengaluru working under the supervision of Dr Prasanta Kumar Ghosh. Graduated from NIT Srinagar in Computer Science & Engineering. At SPIRE lab I am working on problems related to Audio-Visual Speech Synthesis, Accent Conversion and Developing TTS & ASR systems for multiple Indian languages. During my under-graduate studies I have worked on projects related to Computer Vision and NLP.<br>
+Currently, I am working as a Research Associate at SPIRE Lab, IISc Bengaluru working under the supervision of Dr Prasanta Kumar Ghosh. Graduated from NIT Srinagar in Computer Science & Engineering. At SPIRE lab I am working on problems related to Audio-Visual Speech Synthesis, Accent Conversion and Developing TTS & ASR systems for multiple Indian languages. During my under-graduate studies I have worked on projects related to Computer Vision and NLP.<br>
 
 
 ### [My Resume](https://drive.google.com/file/d/1POoLwvpoQ8u0V5L__tN0Z2ggp-aPEMLC/view?usp=share_link)
@@ -88,7 +88,7 @@ I am a Research Associate at SPIRE Lab, IISc Bengaluru working under the supervi
     Conversion of non-native accent to native accent for better recognition of non-native speech.<br>
     [[Publication](https://arxiv.org/pdf/2112.04151.pdf)]
     
-  - **Vaani (funded by: Google)** <br>
+  - **[Vaani](http://vaani.iisc.ac.in/) (funded by: Google)** <br>
     _Advisor: Prof. Prasanta Kumar Ghosh (IISc Bangalore)_
     <br>
     Develop and open source a large corpus and models for Automatic Speech Recognition (ASR) systems in multiple Indian languages.
