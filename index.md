@@ -12,7 +12,7 @@ Currently, I am working as a Research Associate at SPIRE Lab, IISc Bengaluru und
 
 ## Research Interests
 
-- **Natural Language Processsing :** Speech Systhesis, Speech Recognition, Voice Conversion and Styling
+- **Natural Language Processsing :** Speech Systhesis, Speech Recognition, Language Understanding, Voice Conversion and Styling
 
 ## Challanges/Workshops
 - **[LIMMITS'23](https://sites.google.com/view/syspinttschallenge2023/home)**<br>
