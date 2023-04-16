@@ -16,7 +16,7 @@ Currently, I am working as a Research Associate at SPIRE Lab, IISc Bengaluru und
 
 ## Challanges/Workshops
 - **[LIMMITS'23](https://sites.google.com/view/syspinttschallenge2023/home)**<br>
-    Multi-speaker, Multi-lingual Indic TTS challenge, as part of signal processing grand challenge in ICASSP 2023. (LIVE !!)
+    Multi-speaker, Multi-lingual Indic TTS challenge, as part of signal processing grand challenge in ICASSP 2023.
 - **[Gram Vaani ASR Challenge](https://sites.google.com/view/gramvaaniasrchallenge/home?authuser=0)** <br>
     Gram Vaani ASR Challenge - part of low resource ASR development special session in INTERSPEECH 2022. (Results Declared) 
     
