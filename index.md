@@ -15,12 +15,23 @@ Currently, I am working as a Research Associate at SPIRE Lab, IISc Bengaluru und
 - **Natural Language Processsing :** Speech Systhesis, Speech Recognition, Language Understanding, Voice Conversion and Styling
 
 ## Challanges/Workshops
+- **[LIMMITS'24](https://sites.google.com/view/limmits24/home)**<br>
+    Multi-speaker, Multi-lingual Indic TTS with VOICE CLONING, as part of signal processing grand challenge in ICASSP 2024.
+- **[MADASR'23](https://sites.google.com/view/respinasrchallenge2023/home)**<br>
+    Model ADaptation for ASR in low-resource Indian languages Challenge organized at ASRU 2023 (Results Declared)
 - **[LIMMITS'23](https://sites.google.com/view/syspinttschallenge2023/home)**<br>
-    Multi-speaker, Multi-lingual Indic TTS challenge, as part of signal processing grand challenge in ICASSP 2023.
+    Multi-speaker, Multi-lingual Indic TTS challenge, as part of signal processing grand challenge in ICASSP 2023. (Results Declared)
 - **[Gram Vaani ASR Challenge](https://sites.google.com/view/gramvaaniasrchallenge/home?authuser=0)** <br>
     Gram Vaani ASR Challenge - part of low resource ASR development special session in INTERSPEECH 2022. (Results Declared) 
     
 ## Publications
+- **SPIRE-SIES: A Spontaneous Indian English Speech Corpus**
+  <br>
+  _**Abhayjeet Singh**, Charu Shah, Rajashri Varadaraj, Sonakshi Chauhan, Prasanta Kumar Ghosh_
+  <br>
+  **O-COCOSDA 2023**
+  <br>
+  [[PDF](https://arxiv.org/abs/2312.00698)]
 
 - **Gram vaani asr challenge on spontaneous telephone speech recordings in regional variations of hindi**
   <br>
@@ -34,7 +45,7 @@ Currently, I am working as a Research Associate at SPIRE Lab, IISc Bengaluru und
   <br>
   _**Abhayjeet Singh**, Achuth Rao MV, Rakesh Vaideeswaran, Chiranjeevi Yarra, Prasanta Kumar Ghosh_
   <br>
-  **COCOSDA 2021**
+  **O-COCOSDA 2021**
   <br>
   [[PDF](https://arxiv.org/pdf/2112.04151.pdf)]
   
