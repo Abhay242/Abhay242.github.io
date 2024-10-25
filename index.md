@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-Inquistive towards the field of Machine Learning and its unnumerable real-world applications.
-Currently, I am working as a Research Associate at SPIRE Lab, IISc Bengaluru under the guidance of Dr Prasanta Kumar Ghosh. Graduated from NIT Srinagar in Computer Science & Engineering. At SPIRE lab I am working on problems related to Audio-Visual Speech Synthesis, Accent Conversion and Developing TTS & ASR systems for multiple Indian languages.<br> 
+I am a Research Associate at the SPIRE Lab, Indian Institute of Science (IISc) Bengaluru, working under the guidance of Dr. Prasanta Kumar Ghosh. I hold a degree in Computer Science & Engineering from NIT Srinagar. My research centers on Audio-Visual Speech Synthesis, Accent Conversion, and the development of Text-to-Speech (TTS) and Automatic Speech Recognition (ASR) systems for multiple Indian languages. Passionate about Machine Learning and its vast real-world applications, I am dedicated to advancing technology that bridges language and accessibility barriers, fostering inclusive solutions in speech processing and synthesis.<br> 
 
 
-### [My Resume](https://drive.google.com/file/d/1POoLwvpoQ8u0V5L__tN0Z2ggp-aPEMLC/view?usp=share_link)
+### [My Resume]()
 
 ## Research Interests
 
 - **Natural Language Processsing :** Speech Systhesis, Speech Recognition, Language Understanding, Voice Conversion and Styling
 
 ## Challanges/Workshops
+- **[LIMMITS'25](https://sites.google.com/view/limmits25/home)**<br>
+    Multilingual streaming TTS with neural codecs for Indian languages, as part of signal processing grand challenge in ICASSP 2025 (LIVE).
 - **[LIMMITS'24](https://sites.google.com/view/limmits24/home)**<br>
-    Multi-speaker, Multi-lingual Indic TTS with VOICE CLONING, as part of signal processing grand challenge in ICASSP 2024.
+    Multi-speaker, Multi-lingual Indic TTS with VOICE CLONING, as part of signal processing grand challenge in ICASSP 2024.(Results Declared)
 - **[MADASR'23](https://sites.google.com/view/respinasrchallenge2023/home)**<br>
     Model ADaptation for ASR in low-resource Indian languages Challenge organized at ASRU 2023 (Results Declared)
 - **[LIMMITS'23](https://sites.google.com/view/syspinttschallenge2023/home)**<br>
@@ -25,6 +26,54 @@ Currently, I am working as a Research Associate at SPIRE Lab, IISc Bengaluru und
     Gram Vaani ASR Challenge - part of low resource ASR development special session in INTERSPEECH 2022. (Results Declared) 
     
 ## Publications
+- **LIMMITS’24: Multi-speaker, Multi-lingual Indic TTS with voice cloning**
+  <br>
+  _Abhayjeet Singh, Amala Nagireddi, G Deekshitha, Jesuraja Bandekar, R Roopa, Sandhya Badiger, Sathvik Udupa, Prasanta Kumar Ghosh, Hema A Murthy, Pranaw Kumar, Keiichi Tokuda, Mark Hasegawa-Johnson, Philipp Olbrich_
+  <br>
+  **LIMMITS'24: 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)**
+  <br>
+  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10626897]))]
+
+- **Lightweight, Multi-speaker, Multi-lingual Indic Text-To-Speech**
+  <br>
+  _Abhayjeet Singh, Amala Nagireddi, Anjali Jayakumar, G Deekshitha, Jesuraja Bandekar, R Roopa, Sandhya Badiger, Sathvik Udupa, Saurabh Kumar, Prasanta Kumar Ghosh, Hema A Murthy, Heiga Zen, Pranaw Kumar, Kamal Kant, Amol Bole, Bira Chandra Singh, Keiichi Tokuda, Mark Hasegawa-Johnson, Philipp Olbrich_
+  <br>
+  **LIMMITS'23: IEEE Open Journal of Signal Processing**
+  <br>
+  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10479171]))]
+
+- **Gated Multi Encoders and Multitask Objectives for Dialectal Speech Recognition in Indian Languages**
+  <br>
+  _Sathvik Udupa, Jesuraja Bandekar, G Deekshitha, Saurabh Kumar, Prasanta Kumar Ghosh, Sandhya Badiger, Abhayjeet Singh, Savitha Murthy, Priyanka Pai, Srinivasa Raghavan, Raoul Nanavati_
+  <br>
+  **2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)**
+  <br>
+  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10389624]))]
+
+- **Gated Multi Encoders and Multitask Objectives for Dialectal Speech Recognition in Indian Languages**
+  <br>
+  _Sathvik Udupa, Jesuraja Bandekar, G Deekshitha, Saurabh Kumar, Prasanta Kumar Ghosh, Sandhya Badiger, Abhayjeet Singh, Savitha Murthy, Priyanka Pai, Srinivasa Raghavan, Raoul Nanavati_
+  <br>
+  **2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)**
+  <br>
+  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10389624/]))]
+  
+- **An End-to-End TTS Model in Chhattisgarhi, a Low-Resource Indian Language**
+  <br>
+  _Abhayjeet Singh, Anjali Jayakumar, G Deekshitha, Hitesh Kumar, Jesuraja Bandekar, Sandhya Badiger, Sathvik Udupa, Saurabh Kumar, Prasanta Kumar Ghosh_
+  <br>
+  **International Conference on Speech and Computer**
+  <br>
+  [[PDF]([https://link.springer.com/chapter/10.1007/978-3-031-48312-7_13]))]
+
+- **An ASR Corpus in Chhattisgarhi, a Low Resource Indian Language**
+  <br>
+  _Abhayjeet Singh, Arjun Singh Mehta, KS Ashish Khuraishi, G Deekshitha, Gauri Date, Jai Nanavati, Jesuraja Bandekar, Karnalius Basumatary, P Karthika, Sandhya Badiger, Sathvik Udupa, Saurabh Kumar, Prasanta Kumar Ghosh, V Prashanthi, Priyanka Pai, Raoul Nanavati, Sai Praneeth Reddy Mora, Srinivasa Raghavan_
+  <br>
+  **International Conference on Speech and Computer**
+  <br>
+  [[PDF]([https://arxiv.org/abs/2312.00698](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_14))]
+
 - **SPIRE-SIES: A Spontaneous Indian English Speech Corpus**
   <br>
   _**Abhayjeet Singh**, Charu Shah, Rajashri Varadaraj, Sonakshi Chauhan, Prasanta Kumar Ghosh_
@@ -51,7 +100,7 @@ Currently, I am working as a Research Associate at SPIRE Lab, IISc Bengaluru und
   
 - **Web Interface for estimating articulatory movements in speech production from acoustics and text**
   <br>
-  _Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh_
+  _Sathvik Udupa, Anwesha Roy, Abhayjeet Singh, Aravind Illa, Prasanta Kumar Ghosh_
   <br>
   **InterSpeech 2021**
   <br>
@@ -59,7 +108,7 @@ Currently, I am working as a Research Associate at SPIRE Lab, IISc Bengaluru und
 
 - **Estimating articulatory movements in speech production with transformer networks**
   <br>
-  _Sathvik Udupa, Anwesha Roy, **Abhayjeet Singh**, Aravind Illa, Prasanta Kumar Ghosh_
+  _Sathvik Udupa, Anwesha Roy, Abhayjeet Singh, Aravind Illa, Prasanta Kumar Ghosh_
   <br>
   **InterSpeech 2021**.
   <br>
