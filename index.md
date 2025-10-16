@@ -30,10 +30,9 @@ I am a Research Associate at the SPIRE Lab, Indian Institute of Science (IISc) B
 ## Publications
 - **Improving Dialect Identification in Indian Languages Using Multimodal Features from Dialect Informed ASR**
   <br>
-  _Saurabh Kumar, Sumit Sharma, Sathvik Udupa, Sandhya Badiger, Abhayjeet Singh, Jesuraja Bandekar, Savitha Murthy, Prasanta Kumar Ghosh
+  _Saurabh Kumar, Sumit Sharma, Sathvik Udupa, Sandhya Badiger, Abhayjeet Singh, Jesuraja Bandekar, Savitha Murthy, Prasanta Kumar Ghosh_
   <br>
   **ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**
-  <br>
   [[PDF]([https://ieeexplore.ieee.org/abstract/document/10889099/])]
   
 - **LIMMITS’24: Multi-speaker, Multi-lingual Indic TTS with voice cloning**
@@ -41,19 +40,17 @@ I am a Research Associate at the SPIRE Lab, Indian Institute of Science (IISc) B
   _Abhayjeet Singh, Amala Nagireddi, G Deekshitha, Jesuraja Bandekar, R Roopa, Sandhya Badiger, Sathvik Udupa, Prasanta Kumar Ghosh, Hema A Murthy, Pranaw Kumar, Keiichi Tokuda, Mark Hasegawa-Johnson, Philipp Olbrich_
   <br>
   **LIMMITS'24: 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)**
-  <br>
   [[PDF]([https://ieeexplore.ieee.org/abstract/document/10626897])] <br>
-  **IEEE Open Journal of Signal Processing**<br>
+  **IEEE Open Journal of Signal Processing**
   [[PDF]([https://ieeexplore.ieee.org/abstract/document/10845816])]
 
 - **Lightweight, Multi-speaker, Multi-lingual Indic Text-To-Speech**
   <br>
   _Abhayjeet Singh, Amala Nagireddi, Anjali Jayakumar, G Deekshitha, Jesuraja Bandekar, R Roopa, Sandhya Badiger, Sathvik Udupa, Saurabh Kumar, Prasanta Kumar Ghosh, Hema A Murthy, Heiga Zen, Pranaw Kumar, Kamal Kant, Amol Bole, Bira Chandra Singh, Keiichi Tokuda, Mark Hasegawa-Johnson, Philipp Olbrich_
   <br>
-  **ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)** <br>
-  [[PDF](https://ieeexplore.ieee.org/document/10433926)]
+  **ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)** 
+  [[PDF](https://ieeexplore.ieee.org/document/10433926)]<br>
   **LIMMITS'23: IEEE Open Journal of Signal Processing**
-  <br>
   [[PDF]([https://ieeexplore.ieee.org/abstract/document/10479171]))]
 
 - **Gated Multi Encoders and Multitask Objectives for Dialectal Speech Recognition in Indian Languages**
