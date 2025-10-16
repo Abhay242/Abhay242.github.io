@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Associate at the SPIRE Lab, Indian Institute of Science (IISc) Bengaluru, working under the guidance of Dr. Prasanta Kumar Ghosh. I hold a degree in Computer Science & Engineering from NIT Srinagar. My research centers on Audio-Visual Speech Synthesis, Accent Conversion, and the development of Text-to-Speech (TTS) and Automatic Speech Recognition (ASR) systems for multiple Indian languages. Passionate about Machine Learning and its vast real-world applications, I am dedicated to advancing technology that bridges language and accessibility barriers, fostering inclusive solutions in speech processing and synthesis.<br> 
+I am a Research Associate at the SPIRE Lab, Indian Institute of Science (IISc) Bengaluru, working under the guidance of Dr. Prasanta Kumar Ghosh. I am a Computer Science & Engineering graduate from National Institute of Technology(NIT), Srinagar. My research centers on Audio-Visual Speech Synthesis, Accent Conversion, Text-to-Speech (TTS) and Automatic Speech Recognition (ASR) systems for Indian languages. Passionate about Machine Learning and its vast real-world applications, I am dedicated to advancing technology that bridges language and accessibility barriers, fostering inclusive solutions in speech processing and synthesis.<br> 
 
 
 ### [My Resume]()
@@ -14,8 +14,10 @@ I am a Research Associate at the SPIRE Lab, Indian Institute of Science (IISc) B
 - **Natural Language Processsing :** Speech Systhesis, Speech Recognition, Language Understanding, Voice Conversion and Styling
 
 ## Challanges/Workshops
+- **[MADASR'25](https://sites.google.com/view/respinasrchallenge2025/)**<br>
+    MADASR 2.0 (at ASR'25) : Multi-Lingual Multi-Dialect ASR in 8 Indian Languages (Results Declared)
 - **[LIMMITS'25](https://sites.google.com/view/limmits25/home)**<br>
-    Multilingual streaming TTS with neural codecs for Indian languages, as part of signal processing grand challenge in ICASSP 2025 (LIVE).
+    Multilingual streaming TTS with neural codecs for Indian languages, as part of signal processing grand challenge in ICASSP 2025 (Results Declared).
 - **[LIMMITS'24](https://sites.google.com/view/limmits24/home)**<br>
     Multi-speaker, Multi-lingual Indic TTS with VOICE CLONING, as part of signal processing grand challenge in ICASSP 2024.(Results Declared)
 - **[MADASR'23](https://sites.google.com/view/respinasrchallenge2023/home)**<br>
@@ -26,18 +28,30 @@ I am a Research Associate at the SPIRE Lab, Indian Institute of Science (IISc) B
     Gram Vaani ASR Challenge - part of low resource ASR development special session in INTERSPEECH 2022. (Results Declared) 
     
 ## Publications
+- **Improving Dialect Identification in Indian Languages Using Multimodal Features from Dialect Informed ASR**
+  <br>
+  _Saurabh Kumar, Sumit Sharma, Sathvik Udupa, Sandhya Badiger, Abhayjeet Singh, Jesuraja Bandekar, Savitha Murthy, Prasanta Kumar Ghosh
+  <br>
+  **ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**
+  <br>
+  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10889099/])]
+  
 - **LIMMITS’24: Multi-speaker, Multi-lingual Indic TTS with voice cloning**
   <br>
   _Abhayjeet Singh, Amala Nagireddi, G Deekshitha, Jesuraja Bandekar, R Roopa, Sandhya Badiger, Sathvik Udupa, Prasanta Kumar Ghosh, Hema A Murthy, Pranaw Kumar, Keiichi Tokuda, Mark Hasegawa-Johnson, Philipp Olbrich_
   <br>
   **LIMMITS'24: 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)**
   <br>
-  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10626897]))]
+  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10626897])] <br>
+  **IEEE Open Journal of Signal Processing**<br>
+  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10845816])]
 
 - **Lightweight, Multi-speaker, Multi-lingual Indic Text-To-Speech**
   <br>
   _Abhayjeet Singh, Amala Nagireddi, Anjali Jayakumar, G Deekshitha, Jesuraja Bandekar, R Roopa, Sandhya Badiger, Sathvik Udupa, Saurabh Kumar, Prasanta Kumar Ghosh, Hema A Murthy, Heiga Zen, Pranaw Kumar, Kamal Kant, Amol Bole, Bira Chandra Singh, Keiichi Tokuda, Mark Hasegawa-Johnson, Philipp Olbrich_
   <br>
+  **ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)** <br>
+  [[PDF](https://ieeexplore.ieee.org/document/10433926)]
   **LIMMITS'23: IEEE Open Journal of Signal Processing**
   <br>
   [[PDF]([https://ieeexplore.ieee.org/abstract/document/10479171]))]
@@ -80,7 +94,8 @@ I am a Research Associate at the SPIRE Lab, Indian Institute of Science (IISc) B
   <br>
   **O-COCOSDA 2023**
   <br>
-  [[PDF](https://arxiv.org/abs/2312.00698)]
+  [[PDF](https://arxiv.org/abs/2312.00698)] <br>
+  [[Corpus Download]([https://spiredatasets.ee.iisc.ac.in/spiresiescorpus])]
 
 - **Gram vaani asr challenge on spontaneous telephone speech recordings in regional variations of hindi**
   <br>
