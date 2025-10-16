@@ -51,7 +51,7 @@ I am a Research Associate at the SPIRE Lab, Indian Institute of Science (IISc) B
   **ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)** 
   [[PDF](https://ieeexplore.ieee.org/document/10433926)]<br>
   **LIMMITS'23: IEEE Open Journal of Signal Processing**
-  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10479171]))]
+  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10479171])]
 
 - **Gated Multi Encoders and Multitask Objectives for Dialectal Speech Recognition in Indian Languages**
   <br>
