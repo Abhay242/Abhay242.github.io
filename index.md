@@ -60,14 +60,6 @@ I am a Research Associate at the SPIRE Lab, Indian Institute of Science (IISc) B
   **2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)**
   <br>
   [[PDF]([https://ieeexplore.ieee.org/abstract/document/10389624]))]
-
-- **Gated Multi Encoders and Multitask Objectives for Dialectal Speech Recognition in Indian Languages**
-  <br>
-  _Sathvik Udupa, Jesuraja Bandekar, G Deekshitha, Saurabh Kumar, Prasanta Kumar Ghosh, Sandhya Badiger, Abhayjeet Singh, Savitha Murthy, Priyanka Pai, Srinivasa Raghavan, Raoul Nanavati_
-  <br>
-  **2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)**
-  <br>
-  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10389624/]))]
   
 - **An End-to-End TTS Model in Chhattisgarhi, a Low-Resource Indian Language**
   <br>
