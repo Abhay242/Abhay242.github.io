@@ -28,6 +28,12 @@ I am a Research Associate at the SPIRE Lab, Indian Institute of Science (IISc) B
     Gram Vaani ASR Challenge - part of low resource ASR development special session in INTERSPEECH 2022. (Results Declared) 
     
 ## Publications
+- **RESPIN-S1. 0: A read speech corpus of 10000+ hours in dialects of nine Indian Languages**
+  <br>
+  _Saurabh Kumar, Abhayjeet Singh, DEEKSHITHA G, Amartya veer, Jesuraj Bandekar, Savitha Murthy, Sumit Sharma, Sandhya Badiger, Sathvik Udupa, Amala Nagireddi, Srinivasa Raghavan K M, Rohan Saxena, Jai Nanavati, Raoul Nanavati, Janani Sridharan, Arjun Mehta, Ashish S, Sai Mora, Prashanthi Venkataramakrishnan, Gauri Date, Karthika P, Prasanta Ghosh_
+  <br>
+  **NeurIPS 2025 Datasets and Benchmarks Track Submissions**
+  [[PDF](https://neurips.cc/virtual/2025/loc/san-diego/poster/121448)]
 - **Improving Dialect Identification in Indian Languages Using Multimodal Features from Dialect Informed ASR**
   <br>
   _Saurabh Kumar, Sumit Sharma, Sathvik Udupa, Sandhya Badiger, Abhayjeet Singh, Jesuraja Bandekar, Savitha Murthy, Prasanta Kumar Ghosh_
