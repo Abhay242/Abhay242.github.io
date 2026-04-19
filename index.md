@@ -9,9 +9,9 @@ I am a PhD student at the [SPIRE Lab](https://spire.ee.iisc.ac.in/), IISc Bengal
 
 ## Research Interests
 
-- **Natural Language Processsing :** Speech Systhesis, Speech Recognition, Language Understanding, Voice Conversion and Styling
+- **Natural Language Processing :** Speech Synthesis, Speech Recognition, Language Understanding, Voice Conversion and Styling
 
-## Challanges/Workshops
+## Challenges/Workshops
 - **[MADASR'25](https://sites.google.com/view/respinasrchallenge2025/)**<br>
     MADASR 2.0 (at ASR'25) : Multi-Lingual Multi-Dialect ASR in 8 Indian Languages (Results Declared)
 - **[LIMMITS'25](https://sites.google.com/view/limmits25/home)**<br>
@@ -38,16 +38,16 @@ I am a PhD student at the [SPIRE Lab](https://spire.ee.iisc.ac.in/), IISc Bengal
   _Saurabh Kumar, Sumit Sharma, Sathvik Udupa, Sandhya Badiger, Abhayjeet Singh, Jesuraja Bandekar, Savitha Murthy, Prasanta Kumar Ghosh_
   <br>
   **ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**
-  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10889099/])]
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10889099/)]
   
 - **LIMMITS’24: Multi-speaker, Multi-lingual Indic TTS with voice cloning**
   <br>
   _Abhayjeet Singh, Amala Nagireddi, G Deekshitha, Jesuraja Bandekar, R Roopa, Sandhya Badiger, Sathvik Udupa, Prasanta Kumar Ghosh, Hema A Murthy, Pranaw Kumar, Keiichi Tokuda, Mark Hasegawa-Johnson, Philipp Olbrich_
   <br>
   **LIMMITS'24: 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)**
-  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10626897])] <br>
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10626897)] <br>
   **IEEE Open Journal of Signal Processing**
-  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10845816])]
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10845816)]
 
 - **Lightweight, Multi-speaker, Multi-lingual Indic Text-To-Speech**
   <br>
@@ -56,7 +56,7 @@ I am a PhD student at the [SPIRE Lab](https://spire.ee.iisc.ac.in/), IISc Bengal
   **ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)** 
   [[PDF](https://ieeexplore.ieee.org/document/10433926)]<br>
   **LIMMITS'23: IEEE Open Journal of Signal Processing**
-  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10479171])]
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10479171)]
 
 - **Gated Multi Encoders and Multitask Objectives for Dialectal Speech Recognition in Indian Languages**
   <br>
@@ -64,7 +64,7 @@ I am a PhD student at the [SPIRE Lab](https://spire.ee.iisc.ac.in/), IISc Bengal
   <br>
   **2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)**
   <br>
-  [[PDF]([https://ieeexplore.ieee.org/abstract/document/10389624]))]
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10389624)]
   
 - **An End-to-End TTS Model in Chhattisgarhi, a Low-Resource Indian Language**
   <br>
@@ -72,7 +72,7 @@ I am a PhD student at the [SPIRE Lab](https://spire.ee.iisc.ac.in/), IISc Bengal
   <br>
   **International Conference on Speech and Computer**
   <br>
-  [[PDF]([https://link.springer.com/chapter/10.1007/978-3-031-48312-7_13]))]
+  [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_13)]
 
 - **An ASR Corpus in Chhattisgarhi, a Low Resource Indian Language**
   <br>
@@ -80,7 +80,7 @@ I am a PhD student at the [SPIRE Lab](https://spire.ee.iisc.ac.in/), IISc Bengal
   <br>
   **International Conference on Speech and Computer**
   <br>
-  [[PDF]([https://arxiv.org/abs/2312.00698](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_14))]
+  [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_14)]
 
 - **SPIRE-SIES: A Spontaneous Indian English Speech Corpus**
   <br>
@@ -89,7 +89,7 @@ I am a PhD student at the [SPIRE Lab](https://spire.ee.iisc.ac.in/), IISc Bengal
   **O-COCOSDA 2023**
   <br>
   [[PDF](https://arxiv.org/abs/2312.00698)] <br>
-  [[Corpus Download]([https://spiredatasets.ee.iisc.ac.in/spiresiescorpus])]
+  [[Corpus Download](https://spiredatasets.ee.iisc.ac.in/spiresiescorpus)]
 
 - **Gram vaani asr challenge on spontaneous telephone speech recordings in regional variations of hindi**
   <br>
